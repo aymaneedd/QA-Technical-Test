@@ -17,7 +17,13 @@ This repository contains the solution for a QA Technical Assessment. It includes
 
 ---
 
-## Automated Testing
+## Part 1: Test Planning
+
+The test plan is located in the [`test-plan.md`](./test-plan.md) file.
+
+---
+
+## Part 2: Automated Testing
 
 The automated tests are located in the [`automated-tests/tests`](./automated-tests/tests) folder and use **Playwright with TypeScript**.
 
@@ -47,6 +53,14 @@ npx playwright test
 ```bash
 npx playwright test --headed
 ```
+
+---
+
+## Part 3: Bug Documentation
+
+The Bug documentation is located in the [`bug_documentation.md`](./bug_documentation.md) file.
+
+---
 
 ### Notes
 
